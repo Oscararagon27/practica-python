@@ -8,7 +8,7 @@ Proyecto de práctica para aprender Git y GitHub
 
 ## Instalación
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/Oscararagon27/practica-python.git
 cd practica-python
 python3 -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
